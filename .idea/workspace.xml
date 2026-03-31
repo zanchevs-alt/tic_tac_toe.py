@@ -53,7 +53,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="tiic_tac_toe.py" />
+      <module name="tic_tac_toe.py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +76,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="tiic_tac_toe.py" />
+      <module name="tic_tac_toe.py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +89,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="tiic_tac_toe.py" />
+      <module name="tic_tac_toe.py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +107,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="tiic_tac_toe.py" />
+      <module name="tic_tac_toe.py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +125,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="tiic_tac_toe.py" />
+      <module name="tic_tac_toe.py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +141,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="tiic_tac_toe.py" />
+      <module name="tic_tac_toe.py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
