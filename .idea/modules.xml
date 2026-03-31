@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonProject39.iml" filepath="$PROJECT_DIR$/.idea/PythonProject39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tiic_tac_toe.py.iml" filepath="$PROJECT_DIR$/.idea/tiic_tac_toe.py.iml" />
     </modules>
   </component>
 </project>
